@@ -1,0 +1,22 @@
+/*
+* Chioma Njoku
+* March 26, 2019
+* My Favorite Things
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+
+
+}
+#food {height: 200px; width: 300px;}
+#movies {height: 400px; width: 400px;}
+#shopping {height: 600px; width: 600px;}
+#foodfigure {float: right;}
